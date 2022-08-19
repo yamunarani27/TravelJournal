@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+.navelement{
+   background-color: rgb(29, 127, 207);
+   color:white;
+   text-align: center;
+   height:60px;
+   padding: 7px;
+}
+.Main{
+    margin-top:20px;
+    width:1000px;
+}
+h4{
+    font-weight: bold;
+    padding-top: 4px;
+}
+h5,a{
+    display:inline ;
+}
+a{
+    padding-left:15px;
+
+}
+
+.cardbody{
+    margin-left: 0px;
+}
